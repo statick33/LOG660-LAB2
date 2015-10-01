@@ -1,0 +1,14 @@
+﻿<Window x:Class="log660_lab2.LibrairieFilm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LibrairieFilm" Height="491.49" Width="1341">
+    <Grid>
+        <DataGrid x:Name="datagridFilm" HorizontalAlignment="Left" Margin="29,202,0,0" VerticalAlignment="Top" Height="167" Width="1276" SelectionChanged="datagridFilm_SelectionChanged" AutoGeneratingColumn="datagridFilm_AutoGeneratingColumn" AddingNewItem="datagridFilm_AddingNewItem"/>
+        <Button x:Name="btnAddCriteria" Content="AddCriteria" HorizontalAlignment="Left" Margin="1016,143,0,0" VerticalAlignment="Top" Width="141" RenderTransformOrigin="-0.631,0.178" Height="34" Click="btnAddCriteria_Click"/>
+        <TextBox x:Name="txtCriteriaValue" HorizontalAlignment="Left" Height="34" Margin="884,143,0,0" TextWrapping="Wrap" Text="Criteria Value" VerticalAlignment="Top" Width="114"/>
+        <ComboBox x:Name="cmbCriteriaType" HorizontalAlignment="Left" Margin="728,149,0,0" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="lstCriteria" HorizontalAlignment="Left" Height="100" Margin="728,10,0,0" VerticalAlignment="Top" Width="577"/>
+        <Button x:Name="btnRemoveCriteria" Content="RemoveCriteria" HorizontalAlignment="Left" Margin="1187,143,0,0" VerticalAlignment="Top" Width="118" RenderTransformOrigin="-0.08,0.144" Height="34" Click="btnRemoveCriteria_Click"/>
+
+    </Grid>
+</Window>

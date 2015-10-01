@@ -1,0 +1,11 @@
+﻿<Window x:Class="log660_lab2.Connection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Height="23" Margin="111,95,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Height="23" Margin="358,95,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnConnect" Content="Button" HorizontalAlignment="Left" Margin="246,169,0,0" VerticalAlignment="Top" Width="75" Click="btnConnect_Click"/>
+
+    </Grid>
+</Window>

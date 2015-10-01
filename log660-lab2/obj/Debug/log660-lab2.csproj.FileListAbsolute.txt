@@ -1,0 +1,15 @@
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\bin\Debug\log660-lab2.exe.config
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\bin\Debug\log660-lab2.exe
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\bin\Debug\log660-lab2.pdb
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\App.g.cs
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\log660-lab2_MarkupCompile.cache
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\log660-lab2.g.resources
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\log660_lab2.Properties.Resources.resources
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\log660-lab2.csproj.GenerateResource.Cache
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\log660-lab2.exe
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\log660-lab2.pdb
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\Connection.baml
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\Connection.g.cs
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\LibrairieFilm.baml
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\LibrairieFilm.g.cs
+C:\Users\AlexGilbert\Desktop\ETS\AU15\LOG660\Lab2\log660-lab2\log660-lab2\obj\Debug\log660-lab2.csprojResolveAssemblyReference.cache
